@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Laxmi Mehta - Python Full Stack Developer</h1>
+<h1 align="center">🚀 Laxmi Mehta -Full Stack Developer</h1>
 <p align="center">
   <i>Turning ideas into powerful web experiences using Python, SQL, and modern web tech 🧠✨</i>
 </p>
